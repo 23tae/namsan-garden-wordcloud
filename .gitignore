@@ -2,3 +2,6 @@
 data
 result
 test
+
+# etc
+.DS_Store
